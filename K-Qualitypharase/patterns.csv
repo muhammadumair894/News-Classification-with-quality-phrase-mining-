@@ -1,0 +1,2523 @@
+c,51
+with,722
+an,682
+object,435
+query,123
+transaction,51
+management,164
+in,2189
+systems,509
+overview,49
+of,4021
+the,5515
+system,436
+multimedia,74
+information,396
+issues,72
+and,3451
+approaches,65
+active,82
+database,448
+where,53
+oriented,206
+should,38
+do,31
+better,20
+a,2705
+based,575
+on,814
+early,10
+distributed,89
+databases,255
+dbms,19
+developing,28
+genome,10
+mapping,36
+transactions,27
+for,1836
+environments,62
+schema,26
+architecture,43
+m,19
+physical,23
+introduction,109
+to,2046
+part,67
+next,31
+generation,54
+technology,83
+reality,31
+future,40
+requirements,43
+performance,116
+benchmark,31
+view,144
+support,94
+solution,36
+managing,26
+e,76
+p,14
+data,893
+processing,164
+parallel,73
+relational,116
+specification,68
+execution,24
+spatial,57
+structures,90
+is,1250
+presented,73
+use,176
+focus,33
+hierarchical,36
+including,37
+number,79
+which,284
+respect,23
+space,85
+by,552
+it,305
+such,148
+techniques,206
+are,644
+known,49
+as,548
+indexing,51
+methods,176
+recursive,19
+they,72
+because,26
+compact,16
+nature,11
+well,103
+time,231
+also,143
+operations,19
+search,60
+examples,41
+given,53
+these,186
+representation,113
+different,121
+types,45
+regions,46
+points,121
+lines,19
+models,272
+heterogeneous,11
+temporal,75
+critical,23
+comparison,27
+model,467
+sql,51
+standards,15
+modern,28
+theory,88
+its,112
+application,105
+version,13
+control,97
+storage,26
+objects,179
+rules,50
+design,223
+features,71
+my,16
+making,20
+fast,53
+enough,12
+cad,27
+applications,207
+common,35
+programming,221
+language,237
+standard,83
+orientation,26
+survey,31
+concepts,81
+integrated,37
+frame,45
+inference,21
+concurrency,31
+shared,12
+declarative,13
+graphics,56
+concurrent,19
+languages,95
+directions,25
+research,91
+formal,50
+commercial,11
+supporting,18
+studies,23
+implementation,104
+user,89
+interfaces,34
+extended,37
+semantics,51
+preface,10
+contents,12
+program,48
+foundations,25
+guide,33
+reference,48
+manual,27
+analysis,186
+computer,150
+algorithms,190
+specifying,11
+tla,26
+tools,62
+hardware,28
+software,129
+from,666
+book,109
+this,712
+will,58
+you,45
+how,116
+write,13
+specifications,28
+using,479
+rather,23
+long,15
+but,76
+most,89
+people,29
+read,11
+only,76
+i,97
+first,107
+pages,12
+that,559
+contains,10
+all,130
+need,41
+know,14
+about,57
+writing,20
+basic,34
+background,16
+computing,72
+knowledge,178
+mathematics,32
+engineering,68
+or,196
+science,35
+ii,14
+more,113
+advanced,56
+material,22
+readers,13
+world,65
+wide,46
+web,220
+literature,19
+there,34
+link,11
+what,29
+way,57
+your,12
+written,17
+description,49
+us,16
+understand,14
+good,35
+idea,14
+before,12
+building,56
+so,49
+implementing,15
+properties,53
+called,39
+functional,48
+logical,21
+specify,10
+other,88
+important,62
+kinds,10
+we,685
+consider,21
+case,68
+can,284
+often,27
+be,357
+chapter,78
+must,10
+within,37
+certain,14
+however,44
+described,31
+here,18
+our,192
+tool,37
+hard,11
+precise,21
+like,33
+errors,24
+have,193
+their,124
+than,66
+up,42
+not,127
+small,49
+large,114
+each,88
+equation,10
+words,10
+equations,13
+one,122
+another,18
+developed,43
+ways,15
+those,37
+completely,18
+without,46
+two,149
+define,14
+arbitrary,13
+differential,12
+few,22
+require,15
+simple,52
+mathematical,22
+why,13
+describing,16
+may,38
+course,14
+introduced,33
+logic,141
+could,19
+single,59
+practice,34
+was,56
+some,98
+others,12
+usually,11
+combined,22
+traditional,32
+s,18
+actions,17
+original,30
+makes,25
+practical,39
+describe,36
+consists,23
+significant,21
+role,28
+at,178
+provides,59
+style,12
+reasoning,57
+has,146
+effective,31
+almost,15
+proofs,15
+underlying,19
+many,90
+instead,15
+order,87
+set,113
+foundation,15
+complete,61
+built,19
+abstract,27
+whose,22
+would,22
+constructs,10
+best,33
+directly,18
+introduce,30
+needed,14
+them,37
+robust,84
+although,16
+into,142
+real,197
+even,32
+line,30
+were,32
+ideas,12
+refined,16
+last,11
+years,16
+found,15
+class,36
+used,182
+any,36
+discrete,33
+especially,10
+components,36
+step,38
+chapters,14
+through,65
+core,18
+end,30
+no,36
+after,32
+much,21
+independent,30
+additional,16
+describes,50
+three,96
+if,44
+then,96
+available,39
+working,19
+purposes,10
+look,12
+fine,11
+syntax,14
+gives,22
+general,55
+forms,14
+operators,22
+meaning,10
+higher,19
+level,76
+definitions,11
+together,25
+modules,16
+does,30
+presents,63
+useful,18
+defined,31
+approach,262
+java,89
+virtual,111
+machine,48
+compilers,10
+presentation,12
+extension,13
+animation,27
+according,23
+allows,47
+users,34
+back,11
+d,869
+created,14
+text,48
+files,11
+generated,26
+simulation,26
+creating,17
+camera,163
+file,36
+take,12
+place,10
+simulated,16
+entity,12
+during,21
+provided,20
+enhanced,18
+response,15
+statistical,45
+processes,37
+several,74
+constructed,18
+discusses,15
+creation,20
+development,108
+nd,21
+edition,97
+second,64
+operating,18
+third,19
+retrieval,99
+perspective,35
+internet,74
+increase,14
+volume,52
+work,75
+subject,17
+conceptual,37
+recovery,36
+code,31
+open,27
+source,36
+intelligent,42
+resource,17
+coverage,14
+both,104
+field,59
+ai,16
+projects,12
+authors,12
+very,39
+enables,20
+complex,66
+topic,12
+become,21
+university,18
+state,32
+art,30
+new,228
+developments,14
+expert,20
+unique,11
+areas,58
+detailed,23
+latest,10
+technical,19
+theoretical,29
+area,37
+experience,17
+evaluate,19
+present,126
+addresses,10
+recently,21
+basis,29
+across,13
+community,10
+help,18
+apply,19
+results,186
+includes,19
+mechanisms,18
+handling,24
+xml,50
+mining,148
+modeling,259
+relationship,27
+semantic,55
+integration,95
+o,23
+deductive,23
+security,35
+international,12
+currently,10
+constraint,46
+natural,58
+he,18
+scientific,17
+works,16
+site,14
+environment,98
+prolog,60
+artificial,29
+intelligence,28
+tcp,16
+ip,20
+illustrated,21
+protocols,24
+protocol,15
+books,12
+just,14
+uses,39
+popular,13
+action,19
+various,40
+conditions,26
+understanding,44
+provide,53
+whether,12
+run,10
+over,72
+domain,40
+designing,23
+methodology,34
+libraries,23
+und,181
+systeme,20
+auflage,36
+das,11
+db,17
+platform,20
+series,20
+prediction,10
+past,14
+precision,15
+parts,34
+relations,18
+now,13
+therefore,16
+result,36
+followed,10
+deal,15
+include,22
+principles,41
+cases,32
+make,29
+possible,51
+necessary,22
+history,11
+strategies,34
+issue,15
+achieve,17
+maximum,15
+characteristics,10
+technologies,45
+offers,16
+tested,17
+improve,26
+integrating,26
+evaluation,61
+process,132
+measurement,39
+specific,36
+topics,17
+scalable,14
+high,118
+speed,26
+reducing,10
+classes,32
+efficiently,36
+collection,17
+discussed,26
+efficiency,15
+been,113
+comprehensive,20
+strong,14
+structure,130
+construction,45
+human,103
+least,11
+rd,11
+likely,11
+develop,21
+st,12
+cryptography,11
+electronic,38
+computers,16
+experimental,60
+rely,12
+ability,17
+study,45
+communication,42
+goal,21
+show,78
+networks,68
+students,16
+professionals,12
+who,19
+further,25
+since,42
+public,14
+key,38
+digital,92
+signatures,16
+schemes,19
+distribution,20
+programs,75
+bases,12
+optimization,70
+learning,96
+advances,10
+production,12
+direct,16
+contact,10
+similar,10
+required,20
+appropriate,11
+highly,22
+interactive,71
+personal,14
+account,16
+four,14
+major,22
+example,29
+size,24
+compiler,42
+objektorientierte,11
+datenbanken,32
+konzepte,23
+automata,18
+computation,52
+base,27
+context,31
+variety,17
+previous,28
+while,55
+hybrid,18
+related,31
+uncertainty,27
+fundamental,21
+searching,16
+focuses,12
+inheritance,14
+functions,35
+shows,23
+complexity,70
+associated,19
+out,39
+covers,12
+behavior,22
+implicit,17
+impact,16
+terms,25
+transformation,43
+diagrams,14
+measurements,24
+under,51
+linear,38
+nonlinear,11
+tcl,44
+tk,29
+main,44
+interest,26
+weak,12
+furthermore,19
+build,21
+purpose,21
+library,21
+extensible,12
+implement,12
+power,28
+elements,23
+taken,22
+group,14
+able,24
+component,45
+self,27
+find,18
+implemented,25
+create,19
+combining,23
+existing,34
+requires,17
+powerful,13
+flexible,28
+x,11
+either,16
+individual,10
+interface,36
+between,150
+point,126
+ones,12
+graphical,17
+testing,13
+visualization,61
+being,27
+benefit,10
+every,18
+details,15
+programmers,13
+plan,19
+assume,10
+windows,11
+prior,15
+discussion,12
+problems,87
+attempt,10
+correct,20
+report,15
+david,10
+made,17
+via,20
+following,14
+b,25
+contributions,11
+cannot,10
+widely,17
+test,25
+extensions,10
+providing,13
+particularly,11
+per,15
+finally,40
+special,20
+graph,49
+rewriting,11
+essential,16
+life,12
+communities,10
+datenbanksysteme,21
+grundlagen,20
+der,65
+automatic,97
+index,25
+tree,37
+parametric,15
+stream,11
+sequences,47
+generalized,16
+framework,108
+uniform,23
+fundamentals,14
+combines,16
+revised,10
+trends,17
+recent,29
+address,26
+warehousing,11
+gis,12
+decision,38
+mobile,55
+current,41
+für,78
+einführung,30
+die,26
+durch,12
+parallele,10
+datenbanksystemen,22
+algorithmen,10
+zur,50
+von,93
+systemen,15
+eine,38
+ein,28
+analyse,15
+memory,30
+architectures,20
+dynamic,66
+register,13
+allocation,10
+scheduling,18
+flow,41
+guided,15
+operational,11
+processors,10
+transformations,15
+selection,34
+static,12
+form,46
+type,42
+shape,200
+network,53
+manufacturing,13
+classification,58
+industrial,30
+embedded,22
+operation,16
+service,30
+robots,16
+wireless,17
+sensor,45
+enterprise,26
+concept,30
+challenge,10
+robot,18
+sensing,17
+giving,16
+transfer,12
+services,33
+collaborative,12
+automation,24
+sensors,28
+devices,18
+net,11
+resolution,83
+project,47
+unified,29
+industry,14
+fusion,26
+business,72
+multi,111
+agent,47
+quality,111
+still,15
+image,290
+video,107
+layer,12
+challenges,27
+solutions,38
+verification,35
+monitoring,10
+vision,53
+connectivity,10
+transmission,15
+multidimensional,55
+networked,10
+local,80
+energy,13
+acquisition,67
+synthesis,40
+paradigm,14
+activities,11
+computational,56
+dynamics,14
+pattern,23
+matching,89
+compression,32
+planning,57
+when,61
+changes,21
+images,319
+problem,159
+change,31
+disk,13
+machines,17
+solve,20
+algebraic,30
+output,12
+geometric,58
+rendering,52
+organizational,18
+dimensional,76
+input,47
+privacy,17
+neural,22
+graphs,15
+probabilistic,21
+assumptions,10
+finding,20
+values,18
+light,70
+discuss,29
+fitting,22
+task,25
+geometry,72
+structural,19
+primitives,16
+access,35
+online,33
+organization,19
+usability,12
+author,19
+hypermedia,21
+cost,42
+yet,13
+trees,27
+detection,47
+grid,19
+sampling,22
+reconstruction,184
+handbook,16
+translation,19
+applied,42
+algorithmic,11
+unification,24
+communicating,10
+sequential,11
+ada,14
+modelling,33
+function,58
+paper,232
+proposed,130
+streams,11
+constraints,78
+means,23
+conventional,20
+structured,63
+perform,15
+method,318
+phases,10
+missing,19
+successful,12
+descriptions,12
+actual,13
+feature,64
+designed,26
+sequence,47
+calculus,17
+fact,16
+segments,12
+numerical,14
+symbolic,19
+refinement,14
+proof,17
+anwendungen,25
+im,15
+lernen,11
+warehouse,18
+patterns,31
+limited,15
+times,11
+difficult,12
+needs,12
+reduce,21
+adapted,10
+initial,26
+informatik,28
+mit,28
+des,13
+wissensbasierte,10
+einer,10
+implementations,10
+deduction,11
+algorithm,219
+infinite,11
+lisp,11
+efficient,107
+tasks,13
+definition,14
+grammars,11
+solving,21
+meta,17
+modular,10
+protein,18
+prototype,17
+driven,26
+mechanism,20
+interaction,22
+interpretation,18
+classical,19
+normal,39
+automated,27
+logics,18
+theorem,19
+proving,15
+dependent,17
+induction,12
+checking,18
+equality,12
+towards,30
+procedures,21
+encoding,11
+correctness,17
+generic,23
+events,12
+views,85
+free,34
+finite,20
+domains,26
+systematic,14
+scheme,32
+dependencies,11
+algebra,10
+querying,25
+depth,95
+universal,15
+subsequent,10
+around,21
+queries,62
+analyzing,12
+incomplete,21
+motion,150
+fixed,14
+sets,54
+estimation,97
+recognition,53
+deterministic,12
+optimal,31
+display,21
+surfaces,119
+petri,17
+nets,13
+matrix,19
+vector,31
+addition,19
+central,16
+equivalence,10
+particular,34
+generating,12
+prove,13
+formulation,16
+thesis,12
+partial,39
+represent,22
+significantly,15
+give,20
+obtained,56
+shown,47
+consistent,26
+thus,25
+accurate,57
+music,18
+aspects,23
+education,28
+review,20
+extraction,42
+similarity,30
+assessment,13
+potential,14
+documents,44
+objective,10
+demonstrate,46
+fields,14
+analyze,11
+applying,23
+integrity,34
+document,35
+steps,23
+product,12
+error,58
+combination,19
+compared,36
+proposes,22
+novel,67
+low,36
+propose,76
+represented,24
+handle,14
+relationships,13
+identify,12
+edges,10
+compute,19
+suitable,15
+signature,14
+path,12
+technique,82
+against,12
+scanning,50
+cardinality,13
+easy,19
+extend,10
+capabilities,11
+inconsistent,10
+multiple,120
+sources,28
+answers,12
+metadata,31
+resources,11
+person,10
+content,55
+typical,13
+representing,15
+demonstrated,19
+hierarchy,22
+hierarchies,16
+solved,16
+progressive,14
+adaptation,12
+usage,15
+evolution,16
+along,21
+automatically,38
+due,46
+explicit,13
+researchers,10
+promising,10
+growing,14
+illustrate,12
+considerations,10
+bayesian,31
+alternative,12
+involved,10
+derived,28
+minimum,18
+introduces,13
+units,10
+considered,16
+attributes,10
+notion,12
+measure,27
+measures,20
+full,18
+direction,26
+aggregate,13
+aggregation,14
+criteria,20
+organizations,15
+workflow,14
+boundaries,15
+among,29
+successfully,10
+visual,52
+metrics,24
+empirical,17
+improving,13
+value,18
+identification,12
+alignment,27
+strategy,31
+success,14
+tracking,48
+commerce,48
+distance,56
+factors,13
+smes,10
+global,63
+accuracy,56
+robustness,25
+strategic,13
+adoption,10
+face,64
+diffusion,19
+educational,14
+incremental,16
+portable,10
+erp,10
+contours,15
+geographic,19
+client,14
+server,21
+teams,11
+trust,16
+levels,16
+media,15
+uml,54
+agents,46
+training,11
+acceptance,10
+iterative,26
+medical,22
+optical,37
+location,18
+ontology,26
+chain,10
+government,12
+dimensions,17
+frequency,10
+improved,14
+same,48
+maps,42
+facial,24
+body,53
+attention,12
+reported,10
+controlled,14
+chance,15
+moreover,15
+discovery,65
+mesh,82
+fuzzy,16
+adaptive,55
+non,68
+setting,12
+speech,21
+filtering,19
+cooperation,11
+rule,24
+position,28
+datasets,14
+evaluating,10
+defining,12
+representations,25
+effectiveness,21
+sparse,23
+region,26
+color,78
+performed,27
+increasing,11
+detail,20
+pre,13
+computed,19
+event,11
+expression,13
+monocular,11
+variation,14
+rough,21
+clustering,32
+experiments,40
+segmentation,71
+association,14
+imagery,14
+moving,34
+consistency,23
+metric,12
+olap,18
+ontologies,17
+approximate,19
+typically,10
+autonomous,20
+amount,10
+estimated,20
+procedure,28
+allow,25
+map,47
+allowing,17
+abstraction,15
+dimension,15
+correspondence,38
+achieved,22
+selected,20
+viewing,13
+visible,10
+topological,11
+coherent,12
+whole,14
+transform,25
+viewpoint,17
+reason,10
+degree,15
+compare,23
+correlation,30
+fully,12
+produce,19
+corresponding,38
+yields,10
+relative,21
+obtain,19
+exact,10
+extract,14
+rigid,37
+upon,12
+rate,18
+format,13
+aim,11
+capture,21
+phase,18
+constructing,14
+quantitative,13
+reliable,20
+coordination,30
+peer,16
+toward,11
+establish,11
+generierung,11
+entwurf,10
+huge,11
+parallelism,10
+contribution,11
+continuous,16
+teaching,10
+parameters,55
+intensity,32
+baseline,18
+projection,29
+coding,16
+log,12
+segment,11
+matches,18
+extracting,16
+generate,20
+expressions,10
+computations,12
+leads,16
+presence,15
+advantages,12
+filling,10
+block,11
+evaluated,16
+investigate,12
+effect,12
+effects,25
+variations,14
+head,19
+ground,14
+navigation,13
+stochastic,13
+photo,15
+realistic,21
+imaging,36
+determine,16
+fit,10
+reduction,19
+scanned,13
+hand,27
+range,256
+pixel,19
+curves,15
+shapes,28
+rotation,14
+merging,13
+propagation,11
+produced,12
+viewpoints,12
+added,11
+scale,43
+estimate,35
+gaussian,13
+polynomial,12
+subdivision,16
+boundary,16
+approximation,19
+topology,14
+edge,23
+target,12
+wavelet,14
+patch,10
+piecewise,12
+scene,93
+humans,12
+synthetic,32
+invariant,17
+modified,14
+onto,13
+surface,297
+unknown,23
+projections,10
+simultaneously,15
+final,20
+optimized,14
+projective,11
+bounded,11
+density,14
+recover,17
+capable,12
+planar,28
+stereo,111
+texture,62
+correspondences,42
+truth,12
+samples,13
+reconstructing,15
+positions,14
+laser,51
+triangulation,10
+scanner,24
+spherical,17
+harmonic,10
+pose,44
+voxel,15
+multiview,10
+deformable,18
+meshes,37
+smoothing,16
+noisy,15
+interpolation,12
+shading,18
+scenes,64
+icp,24
+scan,17
+scans,26
+planes,14
+textured,18
+indoor,10
+coordinate,10
+motions,14
+panoramic,16
+stereoscopic,14
+volumetric,29
+dense,36
+disparity,37
+estimates,19
+vectors,12
+pairs,11
+coarse,11
+adjustment,11
+gradient,16
+registration,122
+cloud,14
+acquired,26
+plane,27
+reconstructed,19
+overlap,10
+match,12
+smooth,16
+segmented,12
+extracted,24
+curvature,17
+varying,12
+principal,18
+curve,10
+patches,12
+captured,32
+cameras,57
+measured,16
+faces,18
+colour,14
+uncalibrated,21
+projector,15
+calibration,55
+occlusions,12
+contour,14
+acoustic,10
+urban,16
+specular,17
+multiresolution,12
+cut,12
+gpu,13
+outdoor,19
+omnidirectional,15
+registered,17
+textures,12
+overlapping,16
+height,13
+scanners,11
+mm,11
+noise,27
+sampled,12
+occupancy,10
+geometrical,12
+appearance,18
+editing,10
+reconstruct,11
+photometric,11
+affine,12
+resulting,18
+axis,17
+pixels,12
+stage,16
+occlusion,22
+simplification,20
+variational,12
+pair,13
+closest,14
+displacement,13
+taking,15
+artifacts,12
+city,10
+poses,12
+silhouette,23
+calibrated,16
+recovered,11
+triangle,12
+polygonal,17
+vertex,13
+hull,13
+deformation,18
+frames,12
+normals,13
+estimating,23
+displays,12
+illumination,37
+distortion,15
+reflectance,19
+lighting,13
+pipeline,15
+octree,10
+coordinates,12
+bore,12
+radiance,14
+illuminance,13
+with an,23
+with respect,23
+with a,86
+with the,102
+with this,10
+an object,58
+an overview,31
+an application,11
+an important,18
+an introduction,34
+an approach,19
+an active,11
+an efficient,16
+an algorithm,12
+an image,10
+an initial,11
+object oriented,156
+object database,10
+object model,10
+object relational,21
+object and,11
+query processing,33
+query language,17
+query optimization,15
+transaction processing,10
+management in,17
+management systems,27
+in object,20
+in database,19
+in the,405
+in an,31
+in a,142
+in practice,14
+in this,174
+in computer,22
+in prolog,10
+in order,54
+in which,28
+in terms,14
+in many,13
+in relational,13
+in distributed,12
+in data,19
+in one,10
+in particular,20
+in real,20
+in information,16
+in image,14
+in addition,17
+in databases,19
+in our,16
+in der,13
+in d,32
+systems and,23
+systems in,12
+systems for,15
+overview of,29
+of the,817
+of these,37
+of object,22
+of objects,19
+of distributed,10
+of computer,26
+of an,62
+of a,241
+of programming,13
+of its,10
+of all,13
+of both,13
+of knowledge,12
+of this,62
+of database,25
+of data,42
+of their,21
+of interest,17
+of two,13
+of information,39
+of active,10
+of web,10
+of real,13
+of virtual,10
+of three,21
+of software,10
+of parallel,12
+of complex,12
+of view,17
+of images,15
+of our,31
+of natural,10
+of d,103
+of detail,12
+of large,22
+of human,20
+of surface,15
+of shape,13
+of multiple,19
+of range,25
+of points,10
+the use,49
+the data,57
+the object,71
+the design,41
+the relational,17
+the book,44
+the language,29
+the first,46
+the basic,14
+the literature,13
+the system,43
+the specification,12
+the last,10
+the most,37
+the web,36
+the general,10
+the standard,15
+the java,15
+the camera,22
+the development,26
+the internet,35
+the field,13
+the art,30
+the new,24
+the database,18
+the latest,10
+the need,11
+the world,18
+the results,23
+the university,12
+the c,13
+the theory,10
+the performance,17
+the application,15
+the number,24
+the construction,12
+the programming,11
+the context,12
+the underlying,12
+the semantic,16
+the next,17
+the problems,10
+the best,15
+the other,21
+the following,11
+the original,23
+the quality,14
+the user,21
+the local,17
+the author,17
+the human,22
+the model,34
+the proposed,62
+the method,46
+the complexity,16
+the process,20
+the key,11
+the analysis,12
+the two,15
+the main,25
+the shape,17
+the information,10
+the state,11
+the case,13
+the computation,14
+the approach,15
+the second,25
+the same,45
+the software,10
+the global,11
+the digital,10
+the problem,41
+the different,10
+the structure,14
+the effectiveness,15
+the face,10
+the corresponding,12
+the images,16
+the input,14
+the accuracy,16
+the d,91
+the complete,12
+the paper,13
+the scene,29
+the final,14
+the presence,13
+the surface,58
+the icp,10
+the range,20
+the disparity,11
+the mesh,14
+the algorithm,25
+the image,13
+the robustness,10
+the segmentation,13
+the reconstruction,15
+the resulting,12
+the motion,13
+the estimation,10
+system for,54
+system is,25
+system can,10
+system and,11
+system based,11
+system of,10
+system to,11
+multimedia databases,13
+information systems,61
+information retrieval,27
+information from,13
+information technology,11
+information system,15
+information and,12
+information extraction,11
+information is,13
+information modeling,16
+information in,11
+issues in,14
+and future,15
+and its,35
+and object,17
+and implementation,17
+and analysis,17
+and tools,11
+and knowledge,24
+and a,75
+and is,16
+and the,199
+and algorithms,16
+and d,15
+and to,20
+and information,19
+and then,20
+and data,33
+and development,10
+and their,32
+and new,11
+and applications,25
+and we,12
+and it,13
+and tk,14
+and for,13
+and retrieval,16
+and design,16
+and real,23
+and techniques,15
+and other,12
+and verification,10
+and efficient,20
+and an,14
+and motion,22
+and in,12
+and accurate,12
+and color,12
+and robust,10
+approaches to,15
+active database,13
+database systems,95
+database design,36
+database system,40
+database and,11
+database management,22
+where the,13
+oriented database,38
+oriented databases,13
+oriented programming,19
+oriented data,11
+should be,25
+do not,17
+a number,24
+a survey,16
+a formal,10
+a reference,11
+a system,26
+a good,12
+a few,15
+a single,37
+a more,16
+a simple,21
+a complete,22
+a robust,19
+a real,12
+a wide,13
+a user,11
+a very,12
+a relational,11
+a guide,11
+a result,10
+a language,12
+a new,85
+a general,10
+a large,29
+a small,15
+a high,16
+a virtual,14
+a model,22
+a data,21
+a set,52
+a systematic,10
+a database,21
+a variety,11
+a multi,21
+a novel,48
+a method,37
+a query,13
+a comprehensive,11
+a framework,16
+a global,12
+a d,61
+a dynamic,11
+a common,14
+a hierarchical,11
+a digital,12
+a unified,15
+a scene,14
+a surface,17
+a volumetric,10
+based on,198
+based systems,13
+based approach,15
+based d,12
+on the,249
+on a,83
+on an,15
+on line,14
+on real,15
+distributed database,11
+databases and,23
+mapping of,12
+for a,56
+for object,22
+for the,199
+for database,18
+for data,40
+for modeling,10
+for information,12
+for all,11
+for each,16
+for this,15
+for real,14
+for an,11
+for which,10
+for efficient,12
+for interactive,12
+for mobile,10
+for web,14
+for d,60
+architecture of,11
+introduction to,77
+to an,16
+to the,245
+to be,89
+to use,29
+to a,66
+to data,13
+to achieve,11
+to database,14
+to provide,24
+to build,14
+to find,12
+to create,14
+to make,13
+to perform,10
+to solve,13
+to this,11
+to represent,13
+to reduce,14
+to support,13
+to compute,11
+to improve,17
+to object,10
+to information,10
+to produce,11
+to establish,10
+to generate,15
+to determine,12
+to estimate,19
+part of,21
+generation of,17
+performance of,22
+view synthesis,14
+view stereo,10
+support for,13
+support systems,13
+e commerce,25
+data structures,29
+data types,11
+data models,19
+data management,14
+data and,24
+data mining,108
+data modeling,17
+data in,19
+data model,30
+data warehousing,10
+data acquisition,11
+data warehouse,16
+data is,14
+data structure,10
+data quality,17
+data for,11
+data integration,11
+data from,21
+data sets,24
+processing in,19
+processing and,10
+relational database,29
+relational model,13
+relational databases,17
+specification and,11
+specification of,13
+structures and,16
+is presented,29
+is a,83
+is not,25
+is the,65
+is used,35
+is an,30
+is also,17
+is to,49
+is that,15
+is possible,17
+is demonstrated,11
+is based,41
+is shown,18
+is proposed,29
+is introduced,17
+is constructed,10
+is described,14
+is then,12
+is achieved,12
+use of,72
+use the,11
+use a,11
+focus on,20
+number of,74
+which can,16
+which are,25
+which we,12
+which is,35
+which the,25
+respect to,23
+by a,51
+by the,61
+by using,30
+by an,16
+by means,13
+it has,10
+it can,11
+it is,85
+such as,89
+such a,16
+techniques for,40
+techniques in,20
+techniques to,10
+techniques and,15
+are given,13
+are a,11
+are also,12
+are used,27
+are not,17
+are presented,30
+are discussed,10
+are then,11
+as well,66
+as a,103
+as the,53
+as an,23
+indexing techniques,10
+methods for,36
+methods and,18
+methods are,12
+they are,22
+well as,57
+well known,16
+search for,10
+representation of,27
+representation and,16
+representation for,13
+types of,15
+models and,30
+models of,31
+models for,16
+models are,15
+models from,13
+temporal logic,15
+comparison of,10
+model of,46
+model for,39
+model is,23
+model and,20
+model based,18
+model to,11
+modern compiler,11
+theory of,26
+theory and,21
+application of,21
+application to,11
+storage and,11
+objects and,11
+objects in,16
+objects are,12
+design of,47
+design and,36
+features of,13
+applications in,13
+applications of,13
+programming language,39
+programming languages,20
+programming and,13
+language and,10
+language for,27
+language processing,10
+survey of,13
+concepts and,14
+concepts of,10
+concurrency control,20
+graphics hardware,12
+implementation of,29
+implementation in,11
+user interface,10
+semantics of,13
+foundations of,14
+guide to,19
+reference manual,13
+analysis of,46
+analysis and,34
+computer science,24
+computer vision,15
+computer graphics,15
+algorithms and,20
+algorithms for,30
+tools for,20
+software development,11
+from the,115
+from an,12
+from a,80
+from multiple,30
+from different,12
+from d,24
+from shading,10
+from range,16
+from motion,10
+book is,25
+this book,46
+this chapter,56
+this is,29
+this paper,209
+this problem,20
+this method,11
+this work,26
+will be,15
+how to,43
+how the,10
+using the,64
+using a,63
+using an,12
+rather than,19
+but also,12
+that a,11
+that is,32
+that the,68
+that it,15
+that are,23
+that can,24
+that our,10
+all the,26
+all of,10
+need to,19
+about the,15
+knowledge of,17
+knowledge based,15
+knowledge management,16
+knowledge discovery,32
+or the,11
+world wide,15
+wide web,18
+web based,18
+web anwendungen,13
+web applications,11
+there are,12
+way to,17
+description of,20
+us to,10
+so that,16
+properties of,21
+kinds of,10
+we use,22
+we have,36
+we present,86
+we discuss,15
+we also,26
+we show,30
+we demonstrate,18
+we describe,21
+we consider,15
+we propose,71
+we introduce,21
+we focus,13
+we will,11
+we address,10
+we develop,13
+we can,12
+case study,13
+case of,14
+can be,157
+be used,45
+within a,12
+within the,10
+our results,10
+our method,29
+our approach,24
+our algorithm,19
+tool for,11
+have to,17
+have developed,11
+have a,11
+have been,44
+up to,12
+not only,13
+large scale,10
+large number,10
+one of,23
+may be,10
+logic programming,50
+logic programs,17
+some of,18
+makes it,10
+consists of,20
+role in,12
+role of,10
+at the,57
+at a,18
+provides a,17
+provides an,10
+has been,52
+instead of,10
+order to,53
+set of,74
+introduce a,13
+into the,22
+into a,28
+into account,12
+real time,91
+real world,27
+class of,11
+used to,76
+used as,10
+used in,27
+used for,26
+through the,11
+describes the,19
+describes a,15
+three dimensional,49
+level of,13
+together with,10
+does not,25
+presents a,36
+approach to,66
+approach for,31
+approach is,26
+approach that,10
+virtual reality,11
+virtual environments,10
+machine learning,24
+according to,23
+d face,14
+d image,22
+d reconstruction,34
+d models,43
+d range,15
+d scanning,14
+d shape,28
+d surface,21
+d motion,15
+d object,27
+d objects,25
+d data,34
+d points,10
+d shapes,10
+d modeling,29
+d model,57
+d content,11
+d video,16
+file system,11
+during the,10
+development of,35
+nd edition,18
+second edition,29
+operating system,10
+retrieval of,10
+recovery of,10
+open source,11
+coverage of,12
+both the,16
+field of,16
+university of,12
+state of,18
+art of,12
+new approach,12
+new method,15
+expert systems,12
+areas of,18
+present an,15
+present a,58
+present in,10
+results in,15
+results are,21
+results of,19
+results on,13
+results show,14
+results demonstrate,10
+mining for,12
+mining in,11
+mining and,12
+modeling and,22
+modeling in,10
+modeling language,13
+modeling of,39
+modeling system,12
+semantic web,10
+integration of,24
+natural language,33
+environment for,12
+artificial intelligence,20
+tcp ip,14
+uses a,13
+understanding of,13
+provide a,22
+over the,14
+parts of,16
+deal with,13
+principles of,16
+possible to,19
+necessary to,11
+improve the,12
+evaluation of,20
+process and,11
+process of,19
+high performance,13
+high level,24
+high quality,17
+high resolution,16
+been proposed,10
+structure and,19
+structure of,12
+structure from,11
+construction of,17
+human body,24
+rd edition,10
+develop a,10
+electronic commerce,10
+experimental results,41
+rely on,11
+ability to,14
+study of,19
+show how,17
+show that,32
+show the,11
+since the,11
+digital libraries,10
+compiler implementation,12
+computation of,14
+context of,12
+variety of,15
+related to,13
+focuses on,10
+complexity of,21
+out of,14
+terms of,17
+tcl and,15
+power of,14
+elements of,10
+able to,24
+component based,12
+between the,39
+between two,12
+visualization of,15
+automatic d,10
+index structures,10
+framework for,49
+fundamentals of,10
+address the,11
+decision support,12
+für die,10
+von web,12
+eine einführung,15
+form of,10
+shape of,19
+shape from,30
+shape and,21
+concept of,13
+business process,10
+multi agent,13
+multi view,23
+multi camera,10
+multi resolution,12
+agent based,10
+quality of,22
+image and,10
+image data,10
+image based,19
+image sequences,14
+image registration,14
+image is,10
+video sequences,16
+verification of,10
+multidimensional databases,15
+acquisition of,12
+when the,12
+images and,21
+images of,20
+images using,10
+images are,17
+problem of,36
+problem is,18
+neural networks,14
+discuss the,10
+geometry of,11
+detection and,13
+reconstruction of,46
+reconstruction from,31
+applied to,23
+paper describes,25
+paper presents,43
+paper we,30
+paper proposes,10
+proposed method,26
+constraints in,12
+means of,13
+structured light,27
+method is,45
+method for,78
+method of,16
+method to,17
+method that,10
+feature points,10
+feature based,10
+sequence of,16
+reduce the,16
+algorithm for,23
+algorithm to,18
+algorithm is,24
+theorem proving,11
+towards a,10
+free form,11
+depth map,11
+incomplete information,12
+motion estimation,17
+motion of,11
+sets of,13
+estimation and,12
+estimation of,22
+petri nets,11
+obtained from,13
+obtained by,11
+shown to,18
+accurate and,11
+aspects of,13
+review of,10
+demonstrate the,24
+demonstrate that,10
+integrity constraints,12
+combination of,10
+compared with,13
+compared to,19
+proposes a,13
+novel method,14
+propose a,47
+propose an,16
+suitable for,11
+technique for,17
+cardinality constraints,10
+multiple views,20
+multiple range,15
+multiple view,12
+content based,19
+due to,45
+derived from,12
+notion of,10
+visual hull,11
+metrics for,10
+accuracy of,20
+optical flow,12
+ontology based,10
+body shape,11
+chance discovery,10
+discovery in,14
+mesh model,11
+position of,11
+effectiveness of,15
+color images,13
+segmentation and,10
+segmentation of,14
+moving objects,12
+leads to,16
+presence of,14
+effects of,10
+ground truth,11
+determine the,10
+range images,78
+range data,30
+range image,31
+estimate the,17
+synthetic and,14
+surface of,16
+surface is,10
+surface model,10
+surface reconstruction,27
+surface normal,18
+capable of,11
+pose estimation,12
+scenes from,10
+registration of,27
+registration and,12
+closest point,13
+estimating the,10
+with respect to,23
+an object oriented,31
+an overview of,20
+an introduction to,28
+object oriented database,33
+object oriented databases,13
+object oriented programming,17
+object oriented data,10
+query processing in,13
+in object oriented,18
+in database systems,10
+in the context,11
+in the literature,10
+in the presence,11
+in this chapter,22
+in this paper,106
+in order to,53
+in which the,13
+in terms of,14
+in real time,13
+in information systems,10
+overview of the,12
+of the data,16
+of the book,12
+of the art,19
+of the object,25
+of the surface,19
+of the human,12
+of the scene,17
+of the d,19
+of an object,16
+of a d,11
+of information systems,10
+of three dimensional,13
+of d models,13
+of d objects,13
+of range images,16
+the use of,48
+the design and,15
+the design of,20
+the relational model,12
+the book is,11
+the development of,22
+the art of,12
+the world wide,12
+the university of,12
+the performance of,13
+the number of,22
+the construction of,11
+the context of,11
+the quality of,11
+the proposed method,24
+the method is,18
+the complexity of,15
+the process of,15
+the case of,10
+the problem of,32
+the effectiveness of,15
+the accuracy of,12
+the presence of,12
+the surface of,12
+system based on,11
+and object oriented,11
+and data mining,10
+database management systems,12
+oriented database systems,12
+oriented database system,11
+a number of,24
+a system for,11
+a guide to,10
+a new approach,11
+a new method,11
+a large number,10
+a set of,51
+a variety of,11
+a novel method,13
+a method for,27
+a framework for,14
+based on the,42
+based on a,34
+on the web,14
+for object oriented,13
+for data mining,15
+for real time,14
+for d model,10
+to provide a,13
+to estimate the,13
+part of the,10
+performance of the,13
+data mining for,10
+data mining and,10
+is used to,20
+is possible to,11
+is based on,40
+use of the,13
+respect to the,13
+by means of,12
+it is possible,10
+are used to,13
+as well as,57
+model of the,12
+model of a,10
+design and implementation,11
+analysis and design,10
+from a single,10
+from multiple views,10
+this book is,12
+this paper describes,22
+this paper presents,40
+this paper we,29
+that can be,13
+world wide web,15
+we present an,15
+we present a,53
+we show that,14
+we demonstrate the,10
+we propose a,44
+we propose an,15
+we introduce a,12
+we focus on,13
+can be used,34
+be used to,21
+be used for,10
+large number of,10
+one of the,13
+at the same,10
+d modeling of,10
+state of the,18
+present a new,10
+natural language processing,10
+parts of the,11
+structure from motion,10
+show that the,11
+tcl and tk,14
+von web anwendungen,11
+shape from shading,10
+paper describes a,12
+paper presents a,28
+method is based,11
+propose a novel,11
+propose a new,10
+multiple range images,12
+due to the,19
+range image registration,10
+synthetic and real,13
+surface reconstruction from,10
+with respect to the,13
+an object oriented database,11
+object oriented database systems,11
+object oriented database system,11
+in the context of,11
+in the presence of,11
+in this paper we,29
+the world wide web,12
+a large number of,10
+is based on a,14
+is based on the,11
+it is possible to,10
+this paper describes a,12
+this paper presents a,27
+we present a new,10
+can be used to,16
+state of the art,18
+method is based on,10

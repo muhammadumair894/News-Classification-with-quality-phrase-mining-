@@ -1,0 +1,37 @@
+two types of files are used in this method python and c++ files.
+
+
+
+first of all we execute Main.py. frequent_patterns_mining.py is also used with main.py for execution because
+frequent_patterns_mining.py is import in main.py.
+
+
+
+when we executed main.py with frequent_patterns_mining.py a csv file is generated which name as patterns.csv.
+
+
+
+after this we execute compute_idf.py and this file generate StopWordFromText.txt file as output file.
+
+
+now we execute C++ files.
+
+
+first of all we execute from_raw_to_binary file. this file is also used utils folder in which helper
+header file is take place. the output of this file is sentences.buf file.
+
+
+after this feature_extraction file is executed. to execute this file we require patterns.csv, StopWordFromText.txt
+sentences.buf and stopwords files that were generated in the previous steps.
+the output file generated with the help of feature_extraction is final.csv.
+
+
+now we execute our last file name as auto_label_generation.py.
+
+
+this file is also required some other files for execution. these files are RawData.txt file which is our input file which contains the whole data. quality phrases file to train the algorithm and other files like patterns.csv and final.csv.
+
+after executing auto_label_generation.py we get a file which contain positive label phrases and negative lebel phrases.
+positive lebel is 1 and negative label is 0. 
+
+all positive lebel phrases are quality phrases.
